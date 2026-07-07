@@ -1,25 +1,20 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Trainer SMK",
+  "name": "Trainer SMK",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2G-I0Cu_uW2_APP-UlmIcFSczf7UFaYTygx7EyxgIIVyaQqCY7hmpmzPzFaQDjcsrlMZM_89Q348_PlhBRxZVyDsy7FhkNNBwlxYybq3wRGzUDmVeEt49gUiMufZYSD76i2wpfKW99th3/s320/gambar1+-+Copy.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
     },
     {
-      "src": "logo192.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "logo512.png",
-      "type": "image/png",
-      "sizes": "512x512"
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2G-I0Cu_uW2_APP-UlmIcFSczf7UFaYTygx7EyxgIIVyaQqCY7hmpmzPzFaQDjcsrlMZM_89Q348_PlhBRxZVyDsy7FhkNNBwlxYybq3wRGzUDmVeEt49gUiMufZYSD76i2wpfKW99th3/s320/gambar1+-+Copy.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
     }
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#ff9100",
+  "background_color": "#0b0e14"
 }
